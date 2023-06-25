@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Geith Amum</h1>
-<h3 align="center">An aspiring fullstack developer residing in Canada</h3>
+<h3 align="center">An aspiring software developer residing in Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geithamum&label=Profile%20views&color=ff0000&style=flat" alt="geithamum" /> </p>
 
